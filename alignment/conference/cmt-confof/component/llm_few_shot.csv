@@ -1,0 +1,4 @@
+Entity1,Entity2
+http://cmt#ProgramCommitteeChair,http://confOf#Chair_PC
+http://cmt#ProgramCommitteeMember,http://confOf#Member_PC
+http://cmt#email,http://confOf#hasEmail

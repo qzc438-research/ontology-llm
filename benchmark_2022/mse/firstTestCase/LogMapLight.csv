@@ -1,0 +1,6 @@
+Entity1,Entity2
+http://codata.jp/OML-MaterialInformation-reduced#pH,http://ontology.dumontierlab.com/pH
+http://codata.jp/OML-MaterialInformation-reduced#Solvent,http://ontology.dumontierlab.com/Solvent
+http://codata.jp/OML-MaterialInformation-reduced#Pressure,http://matonto.org/ontologies/matonto#hasPressure
+http://codata.jp/OML-MaterialInformation-reduced#EndingTemperature,http://matonto.org/ontologies/matonto#hasTemperature
+http://codata.jp/OML-MaterialInformation-reduced#Temperature,http://matonto.org/ontologies/matonto#hasTemperature
